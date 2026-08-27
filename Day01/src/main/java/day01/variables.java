@@ -10,8 +10,8 @@ public class variables {
 
         System.out.println("Name: " +name);
         System.out.println("age: " +age);
-        System.out.println("isgraduate: " +name);
-        System.out.println("Age: " +age);
+        System.out.println("isgraduate: " +isGraduate);
+        System.out.println("Salary: " +sal);
         System.out.println("grade: " +grade);
     }
 }
